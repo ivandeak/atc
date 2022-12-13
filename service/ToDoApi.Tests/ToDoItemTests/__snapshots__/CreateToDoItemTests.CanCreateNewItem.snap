@@ -1,0 +1,18 @@
+﻿{
+  "Label": null,
+  "Path": null,
+  "Data": {
+    "createToDoItem": {
+      "toDoItem": {
+        "content": "My fourth todo",
+        "createdDate": "2021-02-17T03:30:50.359Z",
+        "id": "ee219fb0d5914c88b503df394cf9c9da",
+        "status": "PENDING"
+      }
+    }
+  },
+  "Errors": null,
+  "Extensions": null,
+  "ContextData": null,
+  "HasNext": null
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Label": null,
+  "Path": null,
+  "Data": {
+    "updateToDoItem": {
+      "toDoItem": {
+        "content": "My updated todo",
+        "createdDate": "2021-02-17T04:05:53.314Z",
+        "id": "b9cd9ace42e24df4b8253615dca39c34",
+        "status": "PENDING"
+      }
+    }
+  },
+  "Errors": null,
+  "Extensions": null,
+  "ContextData": null,
+  "HasNext": null
+}
